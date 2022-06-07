@@ -1,26 +1,21 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/QH1Bv6X/vtv1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
-#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/5hp538x/vtv2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
-#EXTVLCOPT:http-user-agent="KIIP"
+#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/5hp538x/vtv2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",V
+TV2 HD
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://i.ibb.co/60BNBWH/vtv3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
-#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/nbLy5Mg/vtv6.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
-#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
@@ -458,95 +453,6 @@ https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="THỂ THAO",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="RADIO" , VOV FM 99.9MHz
-http://125.212.213.71:1935/live/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" group-title="RADIO" , VOV FM 95.6MHz
-http://125.212.213.71:1935/live/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="VOH FM 87.7MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xnbldewtc2zh.jpg" group-title="RADIO" , VOH FM 87.7MHz
-http://125.212.213.71:1935/live/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="BẮC GIANG" tvg-logo="https://topsvn.com/images/truyenhinh/radio-bac-giang.png" group-title="RADIO" , BẮC GIANG
-https://live.bacgiangtv.vn/bgtvlive/radio.m3u8
-#EXTINF:-1 tvg-id="BẮC KẠN" tvg-logo="https://3ssoft.vn/sites/default/files/backantv-logo.jpg" group-title="RADIO" , BẮC KẠN
-http://113.160.162.131:8080/hls/radio.m3u8
-#EXTINF:-1 tvg-id="BẮC NINH" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/06/bang-gia-bac-ninh-620x420@2x.jpg" group-title="RADIO" , BẮC NINH
-http://118.107.85.4:1935/radio/bacninh_aac/radio.m3u8
-#EXTINF:-1 tvg-id="VŨNG TÀU" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-vung-tau-400x267@2x.jpg" group-title="RADIO" , VŨNG TÀU
-http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
-#EXTINF:-1 tvg-id="BẾN TRE" tvg-logo="https://i.ibb.co/TkPFCgk/bentre.png" group-title="RADIO" , BẾN TRE
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
-#EXTINF:-1 tvg-id="BÌNH DƯƠNG" tvg-logo="https://mvlagency.net/wp-content/uploads/2018/01/quang-cao-radio-binh-duong-1280x720.jpg" group-title="RADIO" , BÌNH DƯƠNG
-https://btvfm011220.cdn.vnns.io/84ca6c79b9109cb81c1e426fd81684971635333470/btv-fm.tms/chunks.m3u8
-#EXTINF:-1 tvg-id="BÌNH PHƯỚC" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/audio_livestream_poster.jpg" group-title="RADIO" , BÌNH PHƯỚC
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
-#EXTINF:-1 tvg-id="BÌNH THUẬN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Swftwgtfsz.png" group-title="RADIO" , BÌNH THUẬN
-http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8
-#EXTINF:-1 tvg-id="CÀ MAU" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/VvVfgWtzuC.jpg" group-title="RADIO" , CÀ MAU
-http://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="CẦN THƠ" tvg-logo="https://canthotv.vn/wp-content/uploads/2018/01/thtpct.jpg" group-title="RADIO" , CẦN THƠ
-https://mekongpassion.com/live/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐÀ NẴNG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cd9vpt6yyW.png" group-title="RADIO" , ĐÀ NẴNG
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/%C4%90N-RTV.png/revision/latest?cb=20200910121259&path-prefix=vi" group-title="RADIO" , ĐỒNG NAI
-http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐỒNG THÁP" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wdcaAChpGy.png" group-title="RADIO" , ĐỒNG THÁP
-http://202.43.109.144:1935/thdtradio/thdtradio/playlist.m3u8
-#EXTINF:-1 tvg-id="GIA LAI" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eKdcLNrJhW.jpg" group-title="RADIO" , GIA LAI
-http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1 tvg-id="HẢI PHÒNG FM 93.7MHz" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" group-title="RADIO" , HẢI PHÒNG FM 93.7MHzs
-https://live.thhp.vn/937/index.m3u8
-#EXTINF:-1 tvg-id="HẢI PHÒNG FM GT 102.2MHz" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" group-title="RADIO" , HẢI PHÒNG FM GT 102.2MHz
-https://live.thhp.vn/radio/102/index.m3u8
-#EXTINF:-1 tvg-id="HÀ NAM" tvg-logo="http://1.bp.blogspot.com/-0fxx6mYMVvI/UwLDAGRwA1I/AAAAAAAACAA/dkG5y5hxHj8/s320/logo-hanam-tv.jpg" group-title="RADIO" , HÀ NAM
-http://103.90.220.236/thhnlive/radio.m3u8
-#EXTINF:-1 tvg-id="HÀ TĨNH" tvg-logo="https://bvad.vn/wp-content/uploads/2017/03/ha-tinh.jpg" group-title="RADIO" , HÀ TĨNH
-https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1 tvg-id="HẬU GIANG FM 89.6MHz" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/logohg.png" group-title="RADIO" , HẬU GIANG FM 89.6MHz
-https://haugiangfm011220.cdn.vnns.io/c10859ddeb00c402a9f6ad05ae61fa5f1635335839/haugiang-fm.tms/chunks.m3u8
-#EXTINF:-1 tvg-id="HƯNG YÊN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/VCPkECsKtY.jpg" group-title="RADIO" , HƯNG YÊN
-https://live.hungyentv.vn/hytvlive/radio.m3u8
-#EXTINF:-1 tvg-id="KHÁNH HÒA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/A39Fgt94EH.png" group-title="RADIO" , KHÁNH HÒA
-http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 tvg-id="KIÊN GIANG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2nG2wFS6HV.png" group-title="RADIO" , KIÊN GIANG
-http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="KOM TUM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/h9Kmgekkfj.png" group-title="RADIO" , KOM TUM
-http://tv.kontumtv.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="LAI CHÂU" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/RLLT6wy4Jd.jpg" group-title="RADIO" , LAI CHÂU
-https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="LÂM ĐỒNG" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-radio-lam-dong.png" group-title="RADIO" , LÂM ĐỒNG
-http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="LẠNG SƠN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kGDbTmvWzJ.png" group-title="RADIO" , LẠNG SƠN
-http://live.langsontv.vn/lstvlive/radio-transmux.m3u8
-#EXTINF:-1 tvg-id="LONG AN" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-long-an-400x267@2x.jpg" group-title="RADIO" , LONG AN
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
-#EXTINF:-1 tvg-id="NGHỆ AN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Xzmc8Lcn6M.png" group-title="RADIO" , NGHỆ AN
-https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 tvg-id="NINH BÌNH" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" group-title="RADIO" , NINH BÌNH
-https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
-#EXTINF:-1 tvg-id="PHÚ YÊN" tvg-logo="https://cdn.webrad.io/images/logos/vietnamradio-org/phu-yen.png" group-title="RADIO" , PHÚ YÊN
-http://113.161.4.48:8080/phuyen/radio.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NAM" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-quang-nam-150x100@2x.jpg" group-title="RADIO" , QUẢNG NAM
-http://113.161.6.157:8085/phatthanh/QRT.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NGÃI" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-quang-ngai-150x100@2x.jpg" group-title="RADIO" , QUẢNG NGÃI
-http://118.107.85.5:1935/radio/quangngai_aac/radio.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NINH 1" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" group-title="RADIO" , QUẢNG NINH 1
-http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NINH 2" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" group-title="RADIO" , QUẢNG NINH 2
-http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-id="QUẢNG TRỊ" tvg-logo="https://i.ibb.co/ckjxWC5/quangtri.png" group-title="RADIO" , QUẢNG TRỊ
-http://mediatech.vncdn.vn/qrtvlive/radio.m3u8
-#EXTINF:-1 tvg-id="SÓC TRĂNG FM 100.4MHz" tvg-logo="https://i.ytimg.com/vi/7Du-idc0GRA/maxresdefault.jpg" group-title="RADIO" , SÓC TRĂNG FM 100.4MHz
-http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
-#EXTINF:-1 tvg-id="SƠN LA" tvg-logo="https://i.ibb.co/WgQYRGQ/sonla.png" group-title="RADIO" , SƠN LA
-http://118.107.85.5:1935/radio/sonla_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TIỀN GIANG FM 96.2MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/RUxQ8FKD6c.jpg" group-title="RADIO" , TIỀN GIANG FM 96.2MHz
-http://thtg.vn/live/radio/radiolive.m3u8
-#EXTINF:-1 tvg-id="THÁI BÌNH" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rBHkNXby55.jpg" group-title="RADIO" , THÁI BÌNH
-http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="THỪA THIÊN HUẾ" tvg-logo="https://cdn.webrad.io/images/logos/vietnamradio-org/thua-thien-hue.png" group-title="RADIO" , THỪA THIÊN HUẾ
-http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
-#EXTINF:-1 tvg-id="TUYÊN QUANG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/YWzgFtNcYx.png" group-title="RADIO" , TUYÊN QUANG
-https://live.tuyenquangtv.vn/hls/radio.m3u8
-#EXTINF:-1 tvg-id="YÊN BÁI" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-yen-bai.jpg" group-title="RADIO" , YÊN BÁI
-https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+
 
 
