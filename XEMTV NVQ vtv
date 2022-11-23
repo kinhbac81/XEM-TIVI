@@ -1,5 +1,16 @@
 #EXTM3U url-tvg="http://bit.ly/epgphaptx5" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh Thể Thao VN" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 HD MYTV
+https://s2129133.cdn.mytvnet.vn/v5live.m3u8?c=vstv451&q=hd&deviceType=127&userId=24724032&deviceId=&type=tv&p=0&zn=netott&rkey=24724032lq1QkPoj&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=113.171.129.133&pkg=pkg12.hni&profiles=hd,sd,high,medium&&bhd=6000000&bsd=3000000&bhi=1500000&bme=1000000&location=VTL&rbk=17216240187&pnode=172.16.237.68&isp=all
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Kênh Thể Thao VN",VTV3 HD MYTV
+https://s129137.cdn.mytvnet.vn/v5live.m3u8?c=vstv262&q=hd&deviceType=127&userId=24724032&deviceId=&type=tv&p=0&zn=netott&rkey=24724032KETpCOlV&ctl=9.41&hc=ctl13&sl=2&drmsrv=ctl13.mytvnet.vn&naddr=113.171.129.137&pkg=pkg12.hni&profiles=hd,sd,high&&bhd=6000000&bsd=3000000&bhi=1500000&location=VTL&rbk=17216240186&pnode=172.16.237.68&isp=all
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="Kênh Thể Thao VN",VTV5 HD MYTV
+https://s129136.cdn.mytvnet.vn/v5live.m3u8?c=vstv453&q=hd&deviceType=127&userId=24724032&deviceId=&type=tv&p=0&zn=netott&rkey=24724032Nh6IFkIM&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=113.171.129.136&pkg=pkg12.hni&profiles=hd,sd,high,medium&&bhd=6000000&bsd=3000000&bhi=1500000&bme=1000000&location=VTL&rbk=17216240187&pnode=172.16.237.68&isp=all
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/640/2022/10/6/vtv-can-tho-16650500344341813094040.png" group-title="Kênh Thể Thao VN",VTV Cantho MYTV
+https://s129137.cdn.mytvnet.vn/v5live.m3u8?c=vstv263&q=hd&deviceType=127&userId=24724032&deviceId=&type=tv&p=0&zn=netott&rkey=24724032wCKGfBcw&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=113.171.129.137&pkg=pkg12.hni&profiles=hd,sd,high&&bhd=6000000&bsd=3000000&bhi=1500000&location=VTL&rbk=17216240186&pnode=172.16.237.68&isp=all
+
+
+
 #EXTINF:,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://onetv.click/logo/vtv2hd.jpg"  group-title="VTV   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
