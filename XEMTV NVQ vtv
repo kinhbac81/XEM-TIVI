@@ -4,9 +4,11 @@
 http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:,VTV Cantho TV360
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
-
-
-#EXTINF:,VTV1 HD
+#EXTINF:,VTV2 HD FPT
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:,VTV Cantho FPT
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="http://onetv.click/logo/vtv1hd.jpg"  group-title="VTV   " tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://onetv.click/logo/vtv2hd.jpg"  group-title="VTV   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
