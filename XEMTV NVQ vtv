@@ -2,6 +2,8 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0
 #EXTINF:,VTV2 HD TV360
 http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#EXTINF:,VTV3 HD TV360
+http://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 #EXTINF:,VTV5 HD TV360
 http://live-ali2.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:,VTV Cantho TV360
