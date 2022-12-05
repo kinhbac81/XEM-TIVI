@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://bit.ly/epgphaptx5" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0
-#EXTINF:-1 tvg-id="ONFOOTBALL HD" tvg-name="ON FOOTBALL HD",ON FOOTBALL HD ONSPORTS
-https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://onetv.click/logo/vtv2hd.jpg"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD TV360
 http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://onetv.click/logo/vtv2hd.jpg"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD SV2
@@ -298,8 +296,9 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="QUỐC TẾ    ",Love4K Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
+----------______________________________________________________-------------------------------
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://hotro.kplus.vn/base/media/url/JunvNcoX2nm363mQqeK9ILkFHXWM8Jks", ON,ON FOOTBALL HD ONSPORTS
+https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
