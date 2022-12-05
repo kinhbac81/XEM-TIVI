@@ -309,6 +309,14 @@ https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="",THỂ THAO VIỆT
 https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON FOOTBALL ENG
+https://livevlive.vtvcab.vn/ondrm/ONFOOTBALLTA/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png",ON SPORTS NEW ENG
+https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF ENG
+https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png",ON SPORTS ENG
+https://livevlive.vtvcab.vn/ondrm/ONSPORTTA/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
