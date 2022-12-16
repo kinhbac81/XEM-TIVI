@@ -17,13 +17,13 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png"  group-title="XEM THE THAO   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV CAN THO SV2
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD FPT
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png"  group-title="XEM THE THAO   " tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD FPT
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg"  group-title="XEM THE THAO   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD FPT
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png"  group-title="XEM THE THAO   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV Cantho FPT
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+ttp://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
 
 --------------____________________________________________________----------------------------------
 
@@ -31,15 +31,15 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="http://onetv.click/logo/vtv1hd.jpg"  group-title="VTV   " tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="http://onetv.click/logo/vtv2hd.jpg"  group-title="VTV   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="http://onetv.click/logo/vtv3hd.jpg"  group-title="VTV   " tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="http://onetv.click/logo/vtv4hd.jpg"  group-title="VTV   " tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg"  group-title="VTV   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://onetv.click/logo/vtv6hd.jpg"  group-title="VTV   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://onetv.click/logo/vtv6hd.jpg"  group-title="VTV   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV CAN THO
+ttp://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="http://onetv.click/logo/vtv7hd.jpg"  group-title="VTV   " tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="http://onetv.click/logo/vtv8hd.jpg"  group-title="VTV   " tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
@@ -299,7 +299,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 ----------______________________________________________________-------------------------------
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON FOOTBALL HD ONSPORTS
 https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="VTVCAB" tvg-logo= "https://cdn.hqth.me/logo/thumbs/17.png",ON SPORTS +
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON SPORTS +
 https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png",ON SPORTS
 https://livevlive.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
