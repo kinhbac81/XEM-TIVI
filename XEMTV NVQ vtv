@@ -23,7 +23,7 @@ http://vips-livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg"  group-title="XEM THE THAO   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD FPT
 http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png"  group-title="XEM THE THAO   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV Cantho FPT
-ttp://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
 
 --------------____________________________________________________----------------------------------
 
@@ -39,7 +39,7 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="http://onetv.click/logo/vtv5hd.jpg"  group-title="VTV   " tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 http://vips-livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="http://onetv.click/logo/vtv6hd.jpg"  group-title="VTV   " tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV CAN THO
-ttp://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="http://onetv.click/logo/vtv7hd.jpg"  group-title="VTV   " tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="http://onetv.click/logo/vtv8hd.jpg"  group-title="VTV   " tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
