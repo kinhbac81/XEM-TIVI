@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://bit.ly/epgphaptx5" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD TV360
-http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080-3_6M.m3u8
+http://125.235.7.90:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=9fe86b9b-7f29-4092-9c7a-7291387eed0e&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD FPT
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png"  group-title="XEM THE THAO   " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD TV360
