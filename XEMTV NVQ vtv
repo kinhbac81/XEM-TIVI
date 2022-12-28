@@ -315,18 +315,10 @@ https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
 https://livevlive.vtvcab.vn/ondrm/ONFOOTBALLTA/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png",ON SPORTS NEW ENG mpd
 https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF ENG mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE ENG mpd
 https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png",ON SPORTS ENG mpd
 https://livevlive.vtvcab.vn/ondrm/ONSPORTTA/manifest.mpd
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON GOLF LIVE
-https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg", ON GOLF 
-http://live.television4you.xyz:8080/vtvcab23
-
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/32fea5b4-81b0-493a-8189-1792d57d8951.jpg",SCTV 15 MPD
 https://live1onsport.vtvcab.vn/ondrm/SCTV15_HD/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ccbf6914-fac3-4bd3-bd36-b04ec32331c0.jpg",SCTV 17
@@ -337,8 +329,7 @@ https://livevlive.vtvcab.vn/ondrm/HTV_THETHAO_HD/manifest.mpd
 https://liveh34.vtvcab.vn/dash/KPLUSCINE/manifest.mpd
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/44b50dbc-9654-4241-a4ce-1b2a1e66c588.jpg",K+ LIFE MPD
 https://liveh34.vtvcab.vn/dash/KPLUSLIFE/manifest.mpd
-#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/44b50dbc-9654-4241-a4ce-1b2a1e66c588.jpg",K+
-https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
 ---------------________________________________________________----------------------------------------
 #EXTINF:,LIST VAN LINH
 http://gg.gg/linhw3u
