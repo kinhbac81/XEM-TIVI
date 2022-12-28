@@ -327,6 +327,16 @@ http://live.television4you.xyz:8080/vtvcab23
 
 #EXTINF:-1 group-title="VTVCAB " tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/32fea5b4-81b0-493a-8189-1792d57d8951.jpg",SCTV 15 MPD
+https://live1onsport.vtvcab.vn/ondrm/SCTV15_HD/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ccbf6914-fac3-4bd3-bd36-b04ec32331c0.jpg.jpg",SCTV 17
+https://livevlive.vtvcab.vn/ondrm/SCTV17/index.m3u8
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/848bae9e-e601-4077-b991-8f6e879f8159.jpg",HTV THE THAO MPD
+https://livevlive.vtvcab.vn/ondrm/HTV_THETHAO_HD/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/c9df09ad-1e46-4638-996e-b5a522a3a056.jpg",K+ CINE MPD
+https://liveh34.vtvcab.vn/dash/KPLUSCINE/manifest.mpd
+#EXTINF:-1 group-title="VTVCAB " tvg-logo="https://stvinaprod.vtvcab.vn/720X405/44b50dbc-9654-4241-a4ce-1b2a1e66c588.jpg",K+ LIFE MPD
+https://liveh34.vtvcab.vn/dash/KPLUSLIFE/manifest.mpd
 ---------------________________________________________________----------------------------------------
 #EXTINF:,LIST VAN LINH
 http://gg.gg/linhw3u
