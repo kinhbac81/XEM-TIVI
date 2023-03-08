@@ -16,3 +16,89 @@ http://192.168.1.81:6878/ace/manifest.m3u8?id=3719c55e1a085c08c98799f83e79b23e2d
 http://192.168.1.81:6878/ace/manifest.m3u8?id=29fd2711ded89fa48cb639c73572a65c6b43d506
 #EXTINF:-1 tvg-id="vtvCANTHO" group-title="VIỆT NAM",VTV CAN THO
 http://192.168.1.81:6878/ace/manifest.m3u8?id=7b67226d1ce6c66d1e61c7e192f5c987e278b39f
+#EXTINF:-1 tvg-id="vtvCANTHO" group-title="VIỆT NAM",VTV CAN THO
+http://192.168.1.81:6878/ace/manifest.m3u8?id=2d6b36e8168c885f0c580adf6f5102909ca69c56
+#EXTINF:-1 tvg-id="htvthethao" group-title="VIỆT NAM",HTV THE THAO
+http://192.168.1.81:6878/ace/manifest.m3u8?id=ae47144f17fca39a7fea4dae02bc806430317a0d
+_____________-------------------______________________________________________________________
+#EXTINF:-1 tvg-id="vtc3" group-title="VTC",VTC3
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=7bd8c38efbc6fc6ce1aff8af7fe40fb1ea13ed97
+#EXTINF:-1 tvg-id="vtc13" group-title="VTC",VTC13
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=b141b8ef8480eda094ada12b21c10789394e4730
+#EXTINF:-1 tvg-id="vtc13UHD" group-title="VTC",VTC13 UHD
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=0828b653dd7ce7bda0c2e7e4da2d10b9915847c8/0.145585252648
+#EXTINF:-1 tvg-id="vtc14" group-title="VTC",VTC14
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=ea450ddad87cdabc5e81eafa32d33f0cfb75aa6a
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC",VTC16
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=d4ce7c3f057e391c26eb80f67eb1c9326da99760
+___________-----------------------------------------------------------------____________________
+#EXTINF:-1 tvg-id="BTSPORT1" group-title="SPORTS",BT SPORT 1 UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-id="BTSPORT2" group-title="SPORTS",BT SPORT 2 UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-id="BTSPORT3" group-title="SPORTS",BT SPORT 3 UK 
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="BTSPORT4" group-title="SPORTS",BT SPORT 4 UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+      ___________----------------------____________________
+#EXTINF:-1 tvg-id="BEINSPORTS1" group-title="SPORTS",BEIN SPORTS 1
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="BEINSPORTS2" group-title="SPORTS",BEIN SPORTS 2
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="BEINSPORTS3" group-title="SPORTS",BEIN SPORTS 3
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+   ______------------------_______________________________
+#EXTINF:-1 tvg-id="CANALSPORTS" group-title="SPORTS",CANAL SPORT PL 
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="CANALSPORTS2" group-title="SPORTS",CANAL SPORT2 PL 
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="CANALSPORTS3" group-title="SPORTS",CANAL SPORT3 PL 
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-id="CANALSPORTS4" group-title="SPORTS",CANAL SPORT4 PL 
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=04448c3ca0b7518819491e468adbabc8a2551bd7
+____________------------------_______________________________________________
+#EXTINF:-1 tvg-id="ELEVENSPORTS14KPL" group-title="ELEVEN SPORTS",ELEVEN SPORT1 4K PL
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-id="ELEVENSPORTS1HDPL" group-title="ELEVEN SPORTS",ELEVEN SPORT1 HD PL
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="ELEVENSPORTS2HDPL" group-title="ELEVEN SPORTS",ELEVEN SPORT2 HD PL
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-id="ELEVENSPORTS3HDPL" group-title="ELEVEN SPORTS",ELEVEN SPORT3 HD PL
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-id="ELEVENSPORTS4HDPL" group-title="ELEVEN SPORTS",ELEVEN SPORT4 HD PL
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-id="ELEVENSPORTS1BE" group-title="ELEVEN SPORTS",ELEVEN SPORT1 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="ELEVENSPORTS2BE" group-title="ELEVEN SPORTS",ELEVEN SPORT2 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="ELEVENSPORTS3BE" group-title="ELEVEN SPORTS",ELEVEN SPORT3 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="ELEVENSPORTS4BE" group-title="ELEVEN SPORTS",ELEVEN SPORT4 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="ELEVENSPORTS5BE" group-title="ELEVEN SPORTS",ELEVEN SPORT5 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="ELEVENSPORTS6BE" group-title="ELEVEN SPORTS",ELEVEN SPORT6 BE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+_____________-----------------____________________________
+#EXTINF:-1 tvg-id="PREMIERSPORT1UK" group-title="SPORTS",PREMIER SPORT1 UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="PREMIERSPORT2UK" group-title="SPORTS",PREMIER SPORT2 UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+        ____________----------------___________________
+#EXTINF:-1 tvg-id="SKYSPORTFOOTBAALUK" group-title="SKY SPORTS",SKYSPORT FOOTBAAL UK
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-id="SKYSPORTMAINEVENT" group-title="SKY SPORTS",SKYSPORT MAIN EVENT
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="SKYSPORTARENA" group-title="SKY SPORTS",SKYSPORT ARENA
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-id="SKYSPORTNEWDE" group-title="SKY SPORTS",SKYSPORT NEW DE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
+#EXTINF:-1 tvg-id="SKYSPORTUHD" group-title="SKY SPORTS",SKYSPORT UHD DE
+https://http://192.168.1.81:6878/ace/manifest.m3u8?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
+
+
+
+
+
+
+
