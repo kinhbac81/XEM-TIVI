@@ -1,0 +1,18 @@
+#EXTM3U MO BANG ACESTREAM
+
+#EXTINF:-1 tvg-id="vtv1" group-title="VIỆT NAM",VTV1 FPT
+http://192.168.1.81:6878/ace/manifest.m3u8?id=a77ec5ddee19a2627c903c5b64bfb6b89805ac27
+#EXTINF:-1 tvg-id="vtv2" group-title="VIỆT NAM",VTV2 HD
+http://192.168.1.81:6878/ace/manifest.m3u8?id=7f6bd9e8073c23e3ff11f08d7c677ff04f1dbc3e
+#EXTINF:-1 tvg-id="vtv3" group-title="VIỆT NAM",VTV3 HD1
+http://192.168.1.81:6878/ace/manifest.m3u8?id=e91d570b565d1359fc3b5c1936203eb45782a657
+#EXTINF:-1 tvg-id="vtv3" group-title="VIỆT NAM",VTV3 HD3
+http://192.168.1.81:6878/ace/manifest.m3u8?id=f49689c618a1c31ac1e35e4451898b8ae3d89bec
+#EXTINF:-1 tvg-id="vtv4" group-title="VIỆT NAM",VTV4 HD
+http://192.168.1.81:6878/ace/manifest.m3u8?id=adaaaa2a71046f87a5920adf481aedd52147e288
+#EXTINF:-1 tvg-id="vtv5" group-title="VIỆT NAM",VTV5 FPT 1
+http://192.168.1.81:6878/ace/manifest.m3u8?id=3719c55e1a085c08c98799f83e79b23e2dd9d9e6
+#EXTINF:-1 tvg-id="vtv5" group-title="VIỆT NAM",VTV5 FPT 2
+http://192.168.1.81:6878/ace/manifest.m3u8?id=29fd2711ded89fa48cb639c73572a65c6b43d506
+#EXTINF:-1 tvg-id="vtvCANTHO" group-title="VIỆT NAM",VTV CAN THO
+http://192.168.1.81:6878/ace/manifest.m3u8?id=7b67226d1ce6c66d1e61c7e192f5c987e278b39f
