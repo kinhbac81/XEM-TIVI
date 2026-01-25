@@ -1,38 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------Quốc tế-------------------#
-#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
-udp://@225.1.1.231:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
-udp://@225.1.2.225:30120
-#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
-udp://@225.1.2.74:30120
-#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
-udp://@225.1.2.91:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
-udp://@225.1.2.231:30120
-#EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
-udp://@225.1.1.142:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
-udp://@225.1.2.86:30120
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-udp://@225.1.1.242:30120
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
-udp://@225.1.1.197:30120
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
-udp://@225.1.2.223:30120
-#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
-udp://@225.1.1.238:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
-udp://@225.1.1.136:30120
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
-udp://@225.1.1.46:30120
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
-udp://@225.1.2.227:30120
-#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
-udp://@225.1.2.211:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
 udp://@225.1.1.112:30120
 
-#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
-udp://@225.1.4.90:30120
 
