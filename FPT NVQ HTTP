@@ -1,0 +1,101 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#-------------------VTV-------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1416342318?ticket=9A8398DF011485247B37D72A54F4AF46124E0316&profile=pass
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/761695745?ticket=69F021420E630DE58A892893826CFBE4A02B9BA3&profile=pass
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/352057914?ticket=86750805121AA61A62DC9129129DB64A0CCDCAE4&profile=pass
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/253233311?ticket=F76CCEEFE4721598F6FF4915E855D975BD10792A&profile=pass
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1077191718?ticket=AFDABD4B72F8A37DC5BE9C50378E8721C2821D01&profile=pass
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
+udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1234299388?ticket=590679C563B36E3882851B10EE2638894E5AF895&profile=pass
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/182567028?ticket=565ADFE846E6EB2F07AB99189DA3E18B6AB069A8&profile=pass
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/2144028698?ticket=F0B7A23F5A81187DC8FD9518B12E6FD9D6951C44&profile=pass
+
+
+#-------------------Quốc tế-------------------#
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps
+http://dv.myddns.me:9981/stream/channelid/908313017?ticket=222BB99017C04A411C0176EDC2F15B93A11E2B5A&profile=pass
+#EXTINF:0,ANTV HD (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/392827850?ticket=A69F2F85C70C439111B8A510B4136330D5551331&profile=pass
+#EXTINF:0,AXN (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/1861115998?ticket=F30022B360B567993E24E5C8C9E26291FDBE1F76&profile=pass
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/263335001?ticket=66E804B2F21E5C44D631475E99432754DA28CA77&profile=pass
+#EXTINF:0,BBC News (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/47992467?ticket=489BE704172BE98F5040103AC003675913B41F18&profile=pass
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1364797177?ticket=8777F9190AE6CFEBACC7A85A7ED1A2ACA8E1CCBA&profile=pass
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/526517774?ticket=53AB95BEADAAC6787DA22570F1AFDC447BA74504&profile=pass
+#EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/331988168?ticket=BA350403D89CA57B73D1F7EFC4FC60BF3484F08E&profile=pass
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/423504726?ticket=2B949A16BD258DE40CB5ECE47B92607958456C76&profile=pass
+#EXTINF:0,CNN (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/195097030?ticket=0C5CF974B36B04525D18C5BF7FA13D770C915171&profile=pass
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/2128154773?ticket=5BD4CFE253CC8D309575AA763A698706CD39D3ED&profile=pass
+#EXTINF:0,Da Vinci (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/1844593332?ticket=FA4FAD5A82094FC2CBF186464B4B00058FC1FBA9&profile=pass
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/116825836?ticket=2F0BD5D7C4E987D3F5252162DDC982304822BC52&profile=pass
+#EXTINF:0,Discovery Asia (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/2130753512?ticket=9B6313D4E1EC6F3596A648A05FE7241B5D6AA172&profile=pass
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/2016211019?ticket=D526D7E93FD42B7B7E6A58FE234F81EC401C301F&profile=pass
+#EXTINF:0,Discovery Channel (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/1354809205?ticket=4F3738D5EDA55CF39DA82D4C8FF83074660B4A3C&profile=pass
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/141802560?ticket=134ED7E7A61B7689694AD83C72349D906F76C25E&profile=pass
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/982922089?ticket=7D88342D4502CB83EFE1F1AA36D1082496C0F6B8&profile=pass
+#EXTINF:0,DW (English) (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/1605199451?ticket=95E05D5F1D8C7365C2B4521DDD0254B526EDF561&profile=pass
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/253453979?ticket=44C2084D616EC854F512AE5D950E1DCE57A21A91&profile=pass
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/2012562674?ticket=7320A4DFFB59462E91C83F6974E5934B04AE8631&profile=pass
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1819762196?ticket=0ED5EBE7F2BB3DB69BFCA2FDBF12039FF1ECD515&profile=pass
+#EXTINF:0,H1 HD | Hà Nhttp://dv.myddns.me:9981/stream/channelid/1874178037?ticket=6664A2C5801B348803B15DD14A4CEAD273F20A7B&profile=pass
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+http://dv.myddns.me:9981/stream/channelid/1310432440?ticket=3361E444FAAA34A49AC539329A54162533E0A76B&profile=pass
+
+
+#-------------------HTV/HTVC-------------------#
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/422605419?ticket=BF880B6BF10932CE645EB93192F861AF788A8414&profile=pass
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/2015901522?ticket=EB274B9EA8A48C921B747D6A2CEE32A9FED26D2F&profile=pass
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1255169824?ticket=F17F292CF92A1013B4B39BBA74F2AAF2E9730894&profile=pass
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/643365146?ticket=045AA2BF8CC4BCD5C0509CE7DC35DFE06B92AB46&profile=pass
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/812350276?ticket=03BA5D4B68FD54108E6C17F49401219393FF1845&profile=pass
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1740718168?ticket=A8E23696F3619B30DA7FFD6B808A120B035F0CCD&profile=pass
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/2105349717?ticket=DC8A8080E62BA4FADD844AD0B51F67690631D9BA&profile=pass
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/1025558878?ticket=FE75A43F2ED0D4355CFE747D820310AA3FCF3C62&profile=pass
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
+udp://@225.1.1.166:30120
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình (HD 8Mbps)
+udp://@225.1.1.170:30120
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/693192558?ticket=B99A605901B6AA06F54557BD759CD48A76DF1D16&profile=pass
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ (HD 8Mbps)
+udp://@225.1.1.171:30120
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 8Mbps)
+http://dv.myddns.me:9981/stream/channelid/118028714?ticket=BF2738E2E27158843288C331EE537DCE5CFDB4E2&profile=pass
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
+udp://@225.1.1.181:30120
