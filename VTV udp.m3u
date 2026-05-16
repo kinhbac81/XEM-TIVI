@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="tttt" group-title="VTV"https://i.postimg.cc/L6Y7Pc49/the-thao.png",tttt
-https://ec04-pop4-hlc.tv360.vn/bpk-token/ivhnce7rjhbbgatsesteitwrcncu5uit/bpk-tv/379/output/379-audio_208000_eng_iv_4=206000-video_iv_4=6525600.m3u8
+https://live-ali2.tv360.vn/manifest/sukien10/playlist_65M.m3u8?timestamp=1778972484&token=a04990293f09e21960f8718342b438a2&uid=16023
 
 #-------------------3-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
