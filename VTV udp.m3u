@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------VTV-------------------#
-#EXTINF:0 tvg-id="tttt" group-title="VTV"https://i.postimg.cc/L6Y7Pc49/the-thao.png",Trực tiếp thể thao
+#EXTINF:0 tvg-id="Truc tiep the thao" group-title="VTV"https://i.postimg.cc/L6Y7Pc49/the-thao.png",Trực tiếp thể thao
 https://live-ali2.tv360.vn/manifest/sukien10/playlist_65M.m3u8?timestamp=1778972484&token=a04990293f09e21960f8718342b438a2&uid=16023
 
 #-------------------3-------------------#
