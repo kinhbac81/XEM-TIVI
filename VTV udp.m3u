@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="Truc tiep the thao" group-title="VTV"https://i.postimg.cc/L6Y7Pc49/the-thao.png",Trực tiếp thể thao
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XtNopRV5/live.isml/.m3u8
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PEbI6ecX/live.isml/.m3u8
 
 #-------------------3-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
