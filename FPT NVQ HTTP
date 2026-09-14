@@ -10,8 +10,8 @@ http://dv.myddns.me:7781/udp://@225.1.2.247:30120
 http://dv.myddns.me:7781/udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 http://dv.myddns.me:7781/udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="http://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
-http://dv.myddns.me:7781/udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
+http://dv.myddns.me:7781/udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
 http://dv.myddns.me:7781/udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
