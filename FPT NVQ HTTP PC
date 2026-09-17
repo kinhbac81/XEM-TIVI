@@ -1,9 +1,17 @@
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
 
+🕒 Lịch phát sóng được update tự động vào các khung giờ: 0h10, 5h10, 10h10, 15h10, 22h10 hàng ngày
 
+⭐ Trang chủ: https://epg.io.vn
 
+🔗 Link EPG dạng xml để nhập vào các app IPTV:
+- Dạng tiêu đề chữ thường: https://epg.io.vn/epg.xml
+- Dạng tiêu đề chữ hoa: https://epg.io.vn/epgu.xml
+- Gom tiêu đề + mô tả: https://epg.io.vn/epgc.xml
+- Dạng file nén (nhẹ hơn, load nhanh hơn): https://epg.io.vn/epg.xml.gz
 
+🔗 Xem trực tiếp danh sách kênh và lịch phát sóng tại: https://epg.io.vn/schedule
 
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="tttt" group-title="VTV" tvg-logo="https://drive.google.com/file/d/1oCByu1nq-RvfCnyz5JHoy-2BA7cKF9as/view?usp=drive_link",tttt
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pie9kthL/live.isml/.m3u8
@@ -25,15 +33,16 @@ http://dv.myddns.me:8183/udp://@225.1.3.4:30120
 http://dv.myddns.me:8183/udp://@225.1.3.42:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
 http://dv.myddns.me:8183/udp://@225.1.3.30:30120
-#EXTINF:0 tvg-id="vtv6" group-title="VTV" tvg-logo="",VTV6
-http://dv.myddns.me:8183/udp://@225.1.2.154:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8.5Mbps)
+http://dv.myddns.me:8183/udp://@225.1.3.10:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
 http://dv.myddns.me:8183/udp://@225.1.3.15:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 http://dv.myddns.me:8183/udp://@225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
 http://dv.myddns.me:8183/udp://@225.1.3.9:30120
-
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8.5Mbps)
+http://dv.myddns.me:8183/udp://@225.1.3.3:30120
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 http://dv.myddns.me:8183/udp://@225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
@@ -44,8 +53,8 @@ http://dv.myddns.me:8183/udp://@225.1.2.247:30120
 http://dv.myddns.me:8183/udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 http://dv.myddns.me:8183/udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
-http://dv.myddns.me:8183/udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
+http://dv.myddns.me:8183/udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
 http://dv.myddns.me:8183/udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
@@ -189,8 +198,3 @@ http://dv.myddns.me:8183/udp://@225.1.4.20:30120
 http://dv.myddns.me:8183/udp://@225.1.4.90:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 http://dv.myddns.me:8183/udp://@225.1.4.183:30120
-
-
-
-
-
